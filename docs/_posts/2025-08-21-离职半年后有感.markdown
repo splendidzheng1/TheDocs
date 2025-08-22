@@ -1,0 +1,6 @@
+---
+layout: post
+title:  "离职半年后有感"
+date:   2025-08-22 16:48:18 +0800
+categories: learning path
+---
